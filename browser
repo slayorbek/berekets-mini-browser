@@ -1,0 +1,36 @@
+ <br> <h1 style="font-size:50px; text-align:center; background-color:turquoise;"> Bereket's browser</h1> <br>
+
+ <style>
+        body {
+            background-color: #f0f0f0;
+            color: #333;
+            font-family: Arial, sans-serif;
+        }
+    </style>
+<hr>
+
+<html lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<body>
+    <a href="https://www.google.com" target="_blank">
+        <img src="C:\Users\user\Desktop\New folder\google.png" alt="google" style="width:250px; height:auto;">
+    </a>
+<html lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+ <a href="https://www.youtube.com" target="_blank">
+        <img src="C:\Users\user\Desktop\New folder\you tube.png" alt="youtube" style="width:250px; height:auto;">
+    </a>
+<html lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+ <a href="https://chatgpt.com/?model=auto" target="_blank">
+        <img src="C:\Users\user\Desktop\New folder\chat gpt.png" alt="chat gpt" style="width:250px; height:auto;">
+    </a>
+<html lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
